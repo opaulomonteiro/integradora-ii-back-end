@@ -1,4 +1,4 @@
 language: groovy
 
 script:
-  - ./gradlew clean build --scan -s
+  - ./gradlew clean build
